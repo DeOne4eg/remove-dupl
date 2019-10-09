@@ -1,0 +1,13 @@
+{
+  "name": "remove-dupl",
+  "version": "1.0.3",
+  "description": "Removing duplicates from arrays and files",
+  "keywords": ["remove", "duplicates", "array", "arrays", "file", "files"],
+  "main": "index.js",
+  "repository": "https://github.com/DeOne4eg/remove-dupl.git",
+  "author": "DeOne",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+lib/
+
+# JS
+examples/*.js
+src/*.js
+src/types/*.js
+src/utils/*.js
+
+# Other
+.DS_Store
